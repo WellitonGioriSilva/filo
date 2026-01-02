@@ -1,0 +1,3 @@
+- Observações:
+  - Criar um react native, e um react
+  - O react só vai aceitar iphone e tem que estar adicionado na tela inicial
