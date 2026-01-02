@@ -1,7 +1,7 @@
 ﻿{
   "name": "filo-queue-api",
   "version": "1.0.0",
-  "description": "Barbershop queue management API (Firebase Firestore)",
+  "description": "Filo Queue API",
   "license": "ISC",
   "author": "",
   "type": "commonjs",
